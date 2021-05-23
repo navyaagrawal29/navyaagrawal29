@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Navya Agrawal
+👋 Hi, I’m Navya Agrawal
 - 👀 I’m interested in Web Development and UI UX Designing
 - 🌱 I’m currently learning web and android development
 
