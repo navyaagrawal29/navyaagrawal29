@@ -1,6 +1,5 @@
 👋 Hi, I’m Navya Agrawal
-- 👀 I’m interested in Web Development and UI UX Designing
-- 🌱 I’m currently learning web and android development
+- 👀 I’m interested in UI UX Designing
 
 <!---
 navyaagrawal29/navyaagrawal29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
